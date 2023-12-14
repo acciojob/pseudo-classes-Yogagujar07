@@ -2,7 +2,10 @@
 :root {
     background-color: rgb(135, 206, 235);
 }
-
+.first-child{
+	color: rgb(255, 255, 255);
+	background-color: black;
+}
 
 article p:last-child {
     color: red;
